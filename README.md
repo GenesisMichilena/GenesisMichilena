@@ -34,32 +34,28 @@ Aquí una lista de algunos proyectos personales o académicos en los que he trab
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Python, JavaScript, C/C++
-- **Frameworks / Librerías:** React, Flask, Node.js *(según lo que estés usando o aprendiendo)*
+- **Lenguajes:** Python, Java, C/C++
 - **Herramientas:** Git, GitHub, VS Code, Linux
-- **Otros:** SQL, HTML/CSS, Docker *(si aplica)*
+- **Otros:** SQL, HTML
 
 ## 🎓 Educación
 
 - **Grado:** Carrera en Computación
-- **Institución:** [Nombre de tu universidad]  
 - **Años:** 2022 – presente  
 - Cursos relevantes: Estructuras de Datos, Programacion orientada a objetos, Fundamentos de Programacion
 
 ## 📚 Intereses
 
-- Desarrollo web
-- Inteligencia artificial
-- Seguridad informática
-- Open source
-- Aprendizaje continuo
+- 💻 Desarrollo web  
+- 🤖 Inteligencia artificial  
+- 🔐 Seguridad informática y ciberseguridad  
+- 🧩 Estructuras de datos y algoritmos  
 
 ## 📬 Contacto
 
-- **Email:** [tuemail@example.com]  
+- **Email:** gmichile@espol.edu.ec
 - **GitHub:** [https://github.com/tuusuario]  
-- **LinkedIn:** [tu perfil] *(si tienes)*  
-- **Twitter / X (opcional):** [@tuusuario]
+- **LinkedIn:** www.linkedin.com/in/genesis-michilena-820632239
 
 ---
 
