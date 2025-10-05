@@ -29,8 +29,9 @@ Me gusta explorar nuevas herramientas, colaborar en proyectos y construir cosas 
 Aquí una lista de algunos proyectos personales o académicos en los que he trabajado:
 - **Agenda de contactos** → [Repositorio en GitHub](https://github.com/GenesisMichilena/Grupo-9.git)  
   Aplicación de consola para gestionar contactos, implementada con **estructuras de datos** como **nodos**, **listas enlazadas** y **listas circulares**.
-- - **Gestor de vuelos (POO5_2P_Michilena_Benitez_Ullaguari)** → [Repositorio en GitHub](https://github.com/GenesisMichilena/POO5_2P_Michilena_Benitez_Ullaguari)  
+-**Gestor de vuelos** → [Repositorio en GitHub](https://github.com/GenesisMichilena/POO5_2P_Michilena_Benitez_Ullaguari)  
   Aplicación con **interfaz gráfica** para la **gestión de vuelos y reservas**, desarrollada aplicando los **principios de Programación Orientada a Objetos (POO)**.
+  
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Python, Java, C/C++
