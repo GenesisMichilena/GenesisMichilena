@@ -27,11 +27,9 @@ Me gusta explorar nuevas herramientas, colaborar en proyectos y construir cosas 
 ## 🚀 Proyectos
 
 Aquí una lista de algunos proyectos personales o académicos en los que he trabajado:
-
-- **[Nombre del proyecto 1](enlace-al-repo):** Breve descripción del proyecto (ej: Aplicación web para tomar notas usando React).
-- **[Nombre del proyecto 2](enlace):** Breve descripción (ej: Juego 2D en Python con Pygame).
-- Puedes ver más en la sección de repositorios.
-
+- **Agenda de contactos** → [Repositorio en GitHub](https://github.com/GenesisMichilena/Grupo-9.git)  
+  Aplicación de consola para gestionar contactos, implementada con **estructuras de datos** como **nodos**, **listas enlazadas** y **listas circulares**.
+- 
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Python, Java, C/C++
