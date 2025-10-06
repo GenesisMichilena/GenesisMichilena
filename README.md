@@ -17,11 +17,10 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - **Nombre:** Genesis Michilena  
 - **Ocupación:** Estudiante de Computación  
 - **Lugar de residencia:** Guayaquil/ Ecuador
-- **Sitio web / Portafolio:** [Tu enlace si tienes uno]  
 
 ## 🧾 Sobre mí
 
-Soy estudiante de Computación con interés en el desarrollo de software, tecnologías web y la resolución de problemas. Actualmente estoy aprendiendo sobre [temas que estás viendo, como estructuras de datos, desarrollo web, inteligencia artificial, etc.].  
+Soy estudiante de Computación con interés en el desarrollo de software, tecnologías web y la resolución de problemas. Actualmente estoy aprendiendo sobre [temas que estás viendo, como estructuras de datos, desarrollo web, etc.].  
 Me gusta explorar nuevas herramientas, colaborar en proyectos y construir cosas que puedan ser útiles.
 
 ## 🚀 Proyectos
