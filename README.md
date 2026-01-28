@@ -54,7 +54,7 @@ Aquí una lista de algunos proyectos personales o académicos en los que he trab
 ## 📬 Contacto
 
 - **Email:** gmichile@espol.edu.ec
-- **GitHub:** [https://github.com/tuusuario]  
+- **GitHub:** https://github.com/GenesisMichilena  
 - **LinkedIn:** www.linkedin.com/in/genesis-michilena-820632239
 
 ---
